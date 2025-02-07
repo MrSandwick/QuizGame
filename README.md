@@ -39,11 +39,13 @@ java net.starANDstripes.Main
 5. You will be asked if you want to play again. Type yes to start a new game or no to exit the game.
 
 ### Project Structure
+```bash
 StarAndStripesQuizGame/
 ├── Main.java
 ├── Quiz.java
 ├── Game.java
 └── README.md
+```
 
 ### Important Classes
 - Main.java: Contains the main method, which starts the game by creating a Game object and calling its run() method.
